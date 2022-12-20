@@ -24,15 +24,7 @@ sumOfDigits(6) = 6
  printf("%d", summ);
  
  return 0;
- } 
- 
-/* 
- //I want to know how large the givenN is 
- while(givenN%i!=givenN){
- int x = givenN%i;
- if(x==givenN){return i;}
- else{i=i*10;}}
- //ok, it was useless(((*/
+ }  
  
  int sumOfDigits(int wow){
  if (wow%10 == wow){
